@@ -1,0 +1,1 @@
+print([x**2 for x in map(int,input('Введите числа через пробел: ').split())])

@@ -1,0 +1,1 @@
+print((lambda x: True if (x%2==0) else False)(int(input('Введите число: '))))

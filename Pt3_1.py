@@ -1,0 +1,1 @@
+print((lambda x: sum(x)/len(x))([float(i) for i in input('Введите числа через пробел: ').split()]))
