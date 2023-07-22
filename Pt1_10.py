@@ -1,4 +1,4 @@
-x = round(float(input('Введите вещественное число: ')),2)
+x = round(float(input('Введите вещественное число: ')), 2)
 s = '.' + str(x).split('.')[1]
 s = s + '0'*(3-len(s))
 x = int(str(x).split('.')[0])
