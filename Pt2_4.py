@@ -1,4 +1,4 @@
-a,b,c = float(input('Введите a: ')), float(input('Введите b: ')), float(input('Введите c: '))
+a, b, c = float(input('Введите a: ')), float(input('Введите b: ')), float(input('Введите c: '))
 D = b**2 - 4*a*c
 if D<0:
   print('Корней нет.')
