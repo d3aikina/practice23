@@ -1,1 +1,1 @@
-print({x:x*x*x for x in range(1,11) if x%2==0})
+print({a:a*a*a for a in range(1,11) if a%2==0})
