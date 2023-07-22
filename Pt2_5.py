@@ -1,5 +1,5 @@
 import random
-w,l,l_in_row=0,0,0
+w, l, l_in_row =0, 0, 0
 while l_in_row<3:
   print(f'Счет: {w}:{l}. Поражений подряд: {l_in_row}')
   choice = input('0 - орел, 1 - решка. Орел или решка? ')
