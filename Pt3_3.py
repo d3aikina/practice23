@@ -1,1 +1,1 @@
-print((lambda x: True if (x%2==0) else False)(int(input('Введите число: '))))
+print((lambda a: True if (a%2==0) else False)(int(input('Введите число: '))))
